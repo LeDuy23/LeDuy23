@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I am Duy Le <br><br>🎒 Second year, majoring in Computer Science with a minor in Business analytics at Cal State University Fullerton<br><br>🤔 Interested in learning more about Quant/Data Science and Cyber Security.<br>
+Hi, I am Duy Le <br><br>🎒 third year, majoring in Computer Science with a minor in Business analytics at Cal State University Fullerton<br><br>🤔 Interested in learning more about Quant/Data Science and Cyber Security.<br>
 
 
 ## 🌐 Socials:
